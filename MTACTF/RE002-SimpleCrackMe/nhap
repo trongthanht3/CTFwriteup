@@ -1,0 +1,37 @@
+
+Text strings referenced in SimpleCr:.text, item 1
+ Address=00C412C6
+ Disassembly=PUSH SimpleCr.00C43170
+ Text string=UNICODE "Not Activation!"
+ 
+DAu+>MWEEEt.>Tt<>At"}Ct}Tt}Ft}{t}}]E4fEEE45EE4Ebs5bEE4EEE4fEEE4EE4EEjPE
+MTACTF{cr4ck1ng_1s_b34ut1fuL}
+MTACTF{AAAAAAAAAAAAAAAAAAAAA}
+cr4ck1ng_1s_b3
+b:627335626A306F
+a:637234636B316E
+b:5A522466
+a:675F3173
+b:525526
+a:5F6233
+this hex xor to 1:
+	62733562
+	bs5b
+	6A306F
+	j0o
+	66 24 52 5A
+this hex sub 0D:
+	5A522466
+	ZR$f
+	525526
+	RU&
+this hex does nothing:
+	4C 75 66 31
+	Luf1
+	74 75 34
+	tu4
+1fuL
+
+flag:      debug008:0093F220 db  62h ; b
+
+userinput: debug008:0093F228 db  62h ; b
